@@ -1,0 +1,8 @@
+.text-footer{
+    color: #D9DBE1;
+}
+.crypto-package-watermark{
+    background-image: url(img/icons/watermark.svg);
+    background-repeat: inherit;
+}
+
